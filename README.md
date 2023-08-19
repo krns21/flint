@@ -1,14 +1,21 @@
 # Flint
 
+## Reference
+[https://help.obsidian.md/Obsidian/Credits#CodeMirror]
+
 ## Windows
 
 - [ ] PDF Viewer
+- - pdf.js
+- - PDFium
 - [ ] Graph View
 - [ ] Canvas
 - [ ] ICR for PDF
 - [ ] OCR for input, pen input support,
+- - MyScript/ai
 - [ ] workspace memory
 - [ ] md <-> latex
+- - Pandoc, CTAN, TeX Live
 - [ ] templates
 - [ ] PDF tools
 - [ ] commandline search
