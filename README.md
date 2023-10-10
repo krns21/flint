@@ -2,6 +2,8 @@
 
 ## Reference
 [https://help.obsidian.md/Obsidian/Credits#CodeMirror]
+Bun runtime
+DeTexify
 
 ## Windows
 
